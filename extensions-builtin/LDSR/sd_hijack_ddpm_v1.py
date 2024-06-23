@@ -1,0 +1,1 @@
+# Data too long. Original file: https://github.com/AUTOMATIC1111/stable-diffusion-webui/extensions-builtin/LDSR/sd_hijack_ddpm_v1.py
